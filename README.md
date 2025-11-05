@@ -1,3 +1,5 @@
+## [The same article on Medium](https://medium.com/@just_immanuel/55-advanced-kubernetes-interview-questions-7262085bc212)
+
 ## 55 advanced Kubernetes interview questions
 
 Hey folks, my name is Immanuel and I am a certified Kubernetes administrator. Here, I have collected some questions about Kubernetes that you can use to prepare for interviews or the CKA exam.
