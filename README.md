@@ -1316,3 +1316,10 @@ Well, that's all for now. I hope you successfully answered all 55 questions and 
 If some questions were too difficult or if you were unfamiliar with any of these Kubernetes concepts, feel free to share your thoughts in the comments.
 
 And if you want to get in touch with me, you can find me on X (twitter) — @immanuel_vibe. Bye!
+
+
+## You can support me, if you want)
+
+<a href="https://www.buymeacoffee.com/immanuwell" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
+
